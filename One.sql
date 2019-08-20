@@ -1,4 +1,3 @@
-SELECT
-    sysdate
+SELECT sysdate 
 FROM
     dual;
